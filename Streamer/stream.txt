@@ -1,0 +1,3 @@
+
+ file written from stream openwrite 
+ done at 2021-07-15 15:02:27.597329 

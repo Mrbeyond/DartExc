@@ -1,0 +1,2 @@
+Title: Asnc write file as string \n Author: Beyond \n Body: This class write file using dart:io package and uses the writeAsString method from the io module. \n let's see what the file would look like
+Now added manually in this file to see the effecton read.
